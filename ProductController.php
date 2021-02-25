@@ -14,9 +14,6 @@ use yii\helpers\Url;
  */
 class ProductController extends Controller
 {
-    /**
-     * {@inheritdoc}
-     */
     
 /*DB da rasmlar jadvali bor. Bunda 4 ta usutun id, product_id, rasm, sana bor. Sana TIMESTAMP, CURRENT_TIMESTAMP qilingan. use backend\models\Rasmlar; use yii\web\UploadedFile; use yii\helpers\Url;*/
 
